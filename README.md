@@ -1,2 +1,10 @@
-# smart-email-snippet-cleaner
-A smart Node.js package to clean raw email snippets and identify security-related threats, such as phishing or spam emails.
+# Smart Email Snippet Cleaner
+
+A simple utility to clean and sanitize email snippets by removing common phishing or security-related content. The cleaner removes suspicious keywords, HTML tags, and unnecessary spaces.
+
+## Installation
+
+To install the package, run the following command:
+
+```bash
+npm install smart-email-snippet-cleaner

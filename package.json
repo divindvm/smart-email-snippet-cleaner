@@ -1,0 +1,19 @@
+{
+  "name": "smart-email-snippet-cleaner",
+  "version": "1.1.0",
+  "description": "A smart tool to clean raw email snippets and flag security-related threats.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["email", "security", "cleaner", "phishing", "spam"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/smart-email-snippet-cleaner.git"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
